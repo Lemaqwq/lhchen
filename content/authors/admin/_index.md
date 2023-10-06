@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liheng Chen\n陳壢衡
+title: Liheng Chen 陳壢衡
 
 # Full name (for SEO)
 first_name: Liheng
@@ -14,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Bachelor of Engineering (Computer Science)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Hong Kong (HKU)
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Automatic Speech Recognition (ASR), Parameter-efficient fine-tuning (PEFT), Diffusion Model, and other topics regarding Natural Language Processing (NLP), and Machine Learning (ML).
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Automatic Speech Recognition (ASR)
+  - Parameter-efficient fine-tuning (PEFT)
+  - Diffusion Model
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Bachelor in Engineering (Computer Science)
+      institution: The University of Hong Kong (HKU)
+      year: 2021 - 2025 (Estimated)
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
