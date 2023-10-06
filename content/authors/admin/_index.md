@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liheng Chen 陳壢衡
+title: Liheng Chen\n陳壢衡
 
 # Full name (for SEO)
 first_name: Liheng
