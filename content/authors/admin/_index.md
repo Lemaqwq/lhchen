@@ -22,7 +22,7 @@ organizations:
     url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an undergraduate student researcher from the University of Hong Kong (HKU). My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation. I serve as a Student Ambassador of HKU for three years.
+bio: I am an undergraduate student researcher from the University of Hong Kong (HKU). My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation.
 # My research interests include Automatic Speech Recognition (ASR), Parameter-efficient fine-tuning (PEFT), Diffusion Model, and other topics regarding Natural Language Processing (NLP), and Machine Learning (ML).
 
 # Interests to show in About widget
@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-# Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an undergraduate student researcher from the University of Hong Kong (HKU), supervised by Prof. Chuan Wu and Prof. Lingpeng Kong. My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation..
 {style="text-align: justify;"}
