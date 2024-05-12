@@ -11,25 +11,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
-      title: Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -44,19 +28,11 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Hong Kong
-          date_start: '2023-09-01'
-          date_end: ''
-          description: ''
-        - title: Summer Research Assistant
-          company: University of Hong Kong
-          company_url: ''
-          company_logo: org-x
-          location: Hong Kong
-          date_start: '2023-06-01'
-          date_end: '2023-08-31'
+          date_start: '2022-07-01'
+          date_end: '2024-02-15'
           description: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
