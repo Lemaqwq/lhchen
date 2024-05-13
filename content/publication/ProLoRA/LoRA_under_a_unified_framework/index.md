@@ -61,7 +61,7 @@ url_pdf: 'https://arxiv.org/abs/2402.16902'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: Illustration of our proposed PRoLoRA.
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).

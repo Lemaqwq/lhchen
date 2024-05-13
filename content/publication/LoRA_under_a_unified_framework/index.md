@@ -60,7 +60,7 @@ url_pdf: 'https://arxiv.org/abs/2403.00812'
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: Illustration of HiddenKey. It respectively drops columns and elements of attention logits and hidden representations, and augments bidirectional KL loss to minimize the training and inference gap implicitly.
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Associated Projects (optional).
