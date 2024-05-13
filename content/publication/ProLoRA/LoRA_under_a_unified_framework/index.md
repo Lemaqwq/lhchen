@@ -9,7 +9,7 @@ authors:
   - Boyang Xue 
   - Jiacheng Ye
   - Jiyue Jiang
-  - Liheng Chen
+  - admin
   - Lingpeng Kong
   - Chuan Wu
 

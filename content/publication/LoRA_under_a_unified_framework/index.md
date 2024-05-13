@@ -6,7 +6,7 @@ title: 'LoRA Meets Dropout under a Unified Framework'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Sheng Wang
-  - Liheng Chen
+  - admin
   - Jiyue Jiang
   - Boyang Xue
   - Lingpeng Kong
