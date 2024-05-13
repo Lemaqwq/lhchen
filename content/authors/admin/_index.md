@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liheng Chen 陳壢衡
+title: Liheng Chen 陈坜衡
 
 # Full name (for SEO)
 first_name: Liheng
