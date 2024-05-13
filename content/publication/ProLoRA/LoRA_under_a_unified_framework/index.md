@@ -1,21 +1,22 @@
 ---
-title: 'LoRA Meets Dropout under a Unified Framework'
+title: 'PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Sheng Wang
-  - Liheng Chen
+  - Boyang Xue 
+  - Jiacheng Ye
   - Jiyue Jiang
-  - Boyang Xue
+  - Liheng Chen
   - Lingpeng Kong
   - Chuan Wu
 
+
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+
 
 date: '2024-05-16T00:00:00Z'
 doi: ''
@@ -47,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2403.00812'
+url_pdf: 'https://arxiv.org/abs/2402.16902'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
@@ -59,7 +60,7 @@ url_pdf: 'https://arxiv.org/abs/2403.00812'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: Illustration of HiddenKey. It respectively drops columns and elements of attention logits and hidden representations, and augments bidirectional KL loss to minimize the training and inference gap implicitly.
+  caption: Illustration of our proposed PRoLoRA.
   focal_point: ''
   preview_only: false
 
