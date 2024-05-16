@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an undergraduate student researcher from the University of Hong Kong (HKU), supervised by Prof. Chuan Wu and Prof. Lingpeng Kong. My research interests include Parameter-Efficient Fine-Tuning(PEFT) and conditional non-autoregressive text generation.
+I am an undergraduate student researcher from the University of Hong Kong (HKU), supervised by Prof. Chuan Wu and Prof. Lingpeng Kong. My research interests include Parameter-Efficient Fine-Tuning (PEFT) and conditional non-autoregressive text generation.
 {style="text-align: justify;"}
